@@ -1,6 +1,6 @@
 # DL-Assignment_1
 NA21B075
-Link to Wandb Report: https://wandb.ai/na21b075-indian-institute-of-technology-madras/wandb/reports/DA6401-Assignment-1--VmlldzoxMTcxODcwNg/edit?draftId=VmlldzoxMTgzNTk5MA==
+Link to Wandb Report: [https://wandb.ai/na21b075-indian-institute-of-technology-madras/wandb/reports/DA6401-Assignment-1--VmlldzoxMTcxODcwNg/edit?draftId=VmlldzoxMTgzNTk5MA==](https://wandb.ai/na21b075-indian-institute-of-technology-madras/wandb/reports/DA6401-Assignment-1--VmlldzoxMTcxODcwNg?accessToken=cdso2ol46qmbx4ur7pnnhugy4a3l9iq94wufa8s9fccm7pdnscqdsgn9ch50jff6)
 
 Link to GitHub : https://github.com/encylope/DL-Assignment_1
 
